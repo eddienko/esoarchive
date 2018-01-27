@@ -31,7 +31,7 @@ test_requirements = [
 
 setup(
     name='esoarchive',
-    version='0.1.0',
+    version='0.9.0',
     description="Automatic ESO archive requests and download",
     long_description=readme + '\n\n' + history,
     author="Eduardo Gonzalez Solares",
