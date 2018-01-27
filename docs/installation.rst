@@ -4,7 +4,7 @@
  Installation
 ==============
 
-In order to run the script `ChromeDriver`_` needs to be installed in the system.
+In order to run the script `ChromeDriver`_ needs to be installed in the system.
 
 The code can be downloaded from the `Github repo`_.
 
